@@ -11,9 +11,7 @@ API ini adalah sebuah sistem back-end yang memungkinkan manajemen artikel pada s
   - [Pendaftaran dan Login](#pendaftaran-dan-login)
   - [Manajemen Artikel](#manajemen-artikel)
   - [Upload Gambar](#upload-gambar)
-- [Lisensi dan Kontribusi](#lisensi-dan-kontribusi)
 - [Kontak dan Dukungan](#kontak-dan-dukungan)
-- [Credits](#credits)
 
 ## Deskripsi
 
@@ -111,20 +109,7 @@ nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run main.go
   GET /api/uploads/{filename}
   ```
 
-## Lisensi dan Kontribusi
-
-Projek ini berlisensi di bawah [Lisensi MIT](LICENSE).
-
-Kontribusi sangat diterima. Silakan buat Pull Request atau buka Issue jika Anda menemui bug atau ingin menambahkan fitur baru.
-
 ## Kontak dan Dukungan
 
-Untuk bantuan lebih lanjut, silakan hubungi [Nama Anda atau Tim Anda](mailto:email@example.com).
+Untuk bantuan lebih lanjut, silakan hubungi [Nama Anda atau Tim Anda](ibnuardhian@example.com).
 
-## Credits
-
-Terima kasih kepada semua kontributor yang telah membantu pengembangan proyek ini.
-
----
-
-Jangan lupa untuk menggantikan placeholder seperti `email@example.com` dengan informasi yang benar dan relevan dengan proyek Anda.
