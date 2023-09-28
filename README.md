@@ -13,7 +13,9 @@ go mod tidy
 Start Mysql di Xampp
 Buat Database dengan nama gowebblog di Mysql
 Ubah file env
+```
 mv .env.example .env
+```
 Lalu Jalankan kode dibawah dengan 
 ```
 nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run main.go
