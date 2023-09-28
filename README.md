@@ -1,6 +1,6 @@
 # BlogWeb API
 
-API ini adalah sebuah sistem back-end yang memungkinkan manajemen artikel pada sebuah blog melalui operasi CRUD, menggunakan Go.
+API ini adalah sebuah sistem back-end yang memungkinkan manajemen artikel pada sebuah blog melalui operasi CRUD, menggunakan Go, Nodejs dan MySql.
 
 ## Daftar Isi
 
