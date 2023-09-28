@@ -2,7 +2,7 @@
 * Sebuah API CRUD Mysql yang dapat mengatur sebuah Website Blog
 * Dibuat dengan Golang dan Mysql
 
-Isi
+## Isi
 - [Instalasi](#instalasi)
 - [Dokumentasi](#dokumentasi)
 # Instalasi
