@@ -47,7 +47,11 @@ Buat database dan konfigurasi koneksi pada `.env`.
 go mod tidy
 ```
 
-### 4. Menjalankan Server
+### 4. Install Nodemon
+```sh
+npm install nodemon -g
+```
+### 5. Menjalankan Server
 ```sh
 nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run main.go
 ```
