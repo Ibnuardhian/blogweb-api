@@ -2,8 +2,13 @@
 * Sebuah API CRUD Mysql yang dapat mengatur sebuah Website Blog
 * Dibuat dengan Golang dan Mysql
 # Instalasi
+Clone Repositori ini
 ```
 git clone https://github.com/Ibnuardhian/blogweb-api
+```
+Instal dependensi yang diperlukan menggunakan
+```
+go mod tidy
 ```
 Start Mysql di Xampp
 Buat Database dengan nama gowebblog di Mysql
