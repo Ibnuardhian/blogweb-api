@@ -111,5 +111,5 @@ nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run main.go
 
 ## Kontak dan Dukungan
 
-Untuk bantuan lebih lanjut, silakan hubungi [Nama Anda atau Tim Anda](ibnuardhian@example.com).
+Untuk bantuan lebih lanjut, silakan hubungi [Programmer](ibnuardhian@gmail.com).
 
