@@ -11,7 +11,6 @@ API ini adalah sebuah sistem back-end yang memungkinkan manajemen artikel pada s
   - [Pendaftaran dan Login](#pendaftaran-dan-login)
   - [Manajemen Artikel](#manajemen-artikel)
   - [Upload Gambar](#upload-gambar)
-- [Kontak dan Dukungan](#kontak-dan-dukungan)
 
 ## Deskripsi
 
@@ -109,7 +108,4 @@ nodemon --watch './**/*.go' --signal SIGTERM --exec 'go' run main.go
   GET /api/uploads/{filename}
   ```
 
-## Kontak dan Dukungan
-
-Untuk bantuan lebih lanjut, silakan hubungi [Programmer](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=ibnuardhian@gmail.com)
-
+# HAVE A GREAT DAY!
